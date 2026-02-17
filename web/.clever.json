@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "app_id": "app_35ffc8f9-4345-4737-96fc-e92ff0f43762",
+      "org_id": "user_6944d9dd-5c62-4194-9e63-cf590273b85c",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_35ffc8f9-4345-4737-96fc-e92ff0f43762.git",
+      "name": "test scw",
+      "alias": "test-scw"
+    },
+    {
+      "app_id": "app_d4231277-bb1e-43cc-964c-9ba24a20a30b",
+      "org_id": "user_6944d9dd-5c62-4194-9e63-cf590273b85c",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_d4231277-bb1e-43cc-964c-9ba24a20a30b.git",
+      "name": "test varnish+rio",
+      "alias": "test-varnish+rio"
+    }
+  ]
+}

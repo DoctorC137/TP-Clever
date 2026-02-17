@@ -1,0 +1,8 @@
+#DO NOT MODIFY THIS FILE
+
+<Files "*.php">  
+    Require all denied
+</Files>
+<Files "index.php">  
+    Require all granted
+</Files>
