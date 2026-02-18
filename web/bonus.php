@@ -2,9 +2,17 @@
 
 function bonus() : string
 {
-    // TODO
+    $env = strtolower(trim(getenv('APP_ENV') ?: ''));
 
-    return "";
+    if ($env === 'production') {
+        return 'Prod';
+    }
+
+    if ($env === 'development') {
+        return 'Dev';
+    }
+
+    return 'Dev';
 }
 
 echo bonus();

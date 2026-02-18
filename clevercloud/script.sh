@@ -1,4 +1,3 @@
-sh
 #!/bin/sh
 
 # DO NOT MODIFY THIS FILE
